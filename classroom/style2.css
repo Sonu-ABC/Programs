@@ -1,0 +1,20 @@
+div{
+    height: 170px ;
+    width: 800px;
+    background-color: rgb(251, 208, 215);
+    border: 5px solid rgb(236, 156, 156);
+    border-radius: 10px;
+    padding: 25px 10px 10px 10px;
+    margin-left: 340px;
+}
+h1{
+    border: 2px dashed green;
+    padding: 0px 50px 0px 650px;
+}
+    
+button{
+    border:2px solid rgb(153, 18, 18);
+    padding:10px;
+    background-color: rgb(220, 167, 67);
+    border-radius: 20px;
+}

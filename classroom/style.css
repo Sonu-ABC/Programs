@@ -1,0 +1,6 @@
+
+.post a{color:purple}
+button:hover{color:wheat ;background-color: aqua;}
+h3:hover{text-decoration: underline;}
+p:active{font-weight: 900;}
+input[type="radio"]:checked+label{color:blueviolet ; font-weight:900;}
